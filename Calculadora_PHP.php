@@ -1,7 +1,5 @@
 <?php
 
-  //Feito pelo grupo : Felipe Furtado, João Lucas Soares, Felipe Rodrigues, Vinicius , Thalison Hertel
-
   echo " | - - - Bem vindo a Calculadora PHP! - - - |"."\n";
   do{
 
